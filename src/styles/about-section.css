@@ -1,0 +1,23 @@
+.about__section-content h2
+{
+    color: #000d6b;
+}
+.about__section-content h4
+{
+    color: #f9a826;
+}
+.about__section-content p
+{
+    font-size: large;
+    color: rgb(95, 95, 95);
+}
+.about__section-item
+{
+    column-gap: 3rem;
+    display: flex;
+}
+.about__section-item p i
+{
+    color: #f9a826;
+    font-size: 1.rem;
+}
